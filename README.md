@@ -10,6 +10,6 @@ If you'd like to contribute (to the list curation, not the bad thinking), create
 
 ---
 
-Copyright 2017 Dave Kinkead
+Copyright 2017-2019 Dave Kinkead
 
 You are free to use the project metadata under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/) Copyright of the individual articles remains held by their original creators. 
